@@ -76,3 +76,8 @@ Original code: http://www.univ-mlv.fr/~farges/waw
 
 Latif Ullah Khan
 Beamline Scientist — BM08-XAFS/XRF Beamline, SESAME Light Source
+
+⚡ License
+
+MIT License
+
