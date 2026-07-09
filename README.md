@@ -32,7 +32,7 @@ exafs-cauchy-wavelet/
 Run the main script:
 
 ```bash
-python exafsCCWT.py
+python exafsCCWT_02.py
 ```
 
 The script will generate:
