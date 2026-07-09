@@ -71,6 +71,7 @@ pip install -r requirements.txt
 🔬 Method
 
 Original code: http://www.univ-mlv.fr/~farges/waw
+
 Munoz M., Argoul P., & Farges F. (2003).
 Continuous Cauchy wavelet transform analyses of EXAFS spectra: a qualitative approach.
 American Mineralogist, 88, 694–700.
