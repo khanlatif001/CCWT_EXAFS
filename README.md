@@ -69,6 +69,7 @@ pip install -r requirements.txt
 2. Khan, L. U., Khan, Z. U., Blois, L., Tabassam, L., Brito, H. F., & Figueroa, S. J. A. (2023). Strategy to probe the local atomic structure of luminescent rare earth complexes by X-ray absorption near-edge spectroscopy simulation using a machine learning-based PyFitIt approach. Inorganic Chemistry, 62(6), 2738–2750. https://doi.org/10.1021/acs.inorgchem.2c03823
 
 🔬 Method
+
 Munoz M., Argoul P., & Farges F. (2003).
 Continuous Cauchy wavelet transform analyses of EXAFS spectra: a qualitative approach.
 American Mineralogist, 88, 694–700.
